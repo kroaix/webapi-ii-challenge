@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const server = require('./server.js');
 
 const port = 6000;
